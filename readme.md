@@ -2,6 +2,9 @@
 
 This project aims at crawling data from twitter application using twitter API. In this project user id and post details of users are extracted using API and stored in mysql database.
 
+## System design for Twitter-Crawling
+   ![image](https://user-images.githubusercontent.com/115713117/223177891-d4501db4-f6b1-4e5d-9770-d15152c650ce.png)
+
 ## Requirements
 - requests module
 - pymysql
